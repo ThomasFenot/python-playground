@@ -174,4 +174,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-api-playground/config.yaml
+
+# Config file
+api-playground/config/config.ini
